@@ -12,8 +12,8 @@
 
 ## Projects
 
-- 🤖 [chatbot-memory](https://github.com/karol2508/chatbot-memory) — Conversational chatbot with memory using LangChain + OpenAI
-- 🏠 [apartment-price-prediction-poland](https://github.com/karol2508/apartment-price-prediction-poland) — ML model to predict apartment prices in Poland
+- [chatbot-memory](https://github.com/karol2508/chatbot-memory) — Conversational chatbot with memory using LangChain + OpenAI
+- [apartment-price-prediction-poland](https://github.com/karol2508/apartment-price-prediction-poland) — ML model to predict apartment prices in Poland
 
 ## Currently
 
