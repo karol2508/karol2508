@@ -18,7 +18,6 @@
 ## Currently
 
 - Building AI automation workflows for businesses
-- Looking for a Junior AI Engineer or AI Automation role
 - Learning: RAG, AI Agents, FastAPI
 
 ## Contact
